@@ -7,7 +7,7 @@
 
 Goto
 
-    [http://www.python.org/](https://www.python.org/)
+[http://www.python.org/](https://www.python.org/)
 
 click on Download menu and select **Windows**
 
